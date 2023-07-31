@@ -1,5 +1,5 @@
-import os 
-os.chdir(r"C:\AI APPS\Final project")
+#import os 
+#os.chdir(r"C:\AI APPS\Final project")
 import streamlit as st
 from detectron2.config import get_cfg
 from detectron2.engine import DefaultPredictor
